@@ -1,2 +1,2 @@
 hello git world!
-Create a new branch is quick!
+Create a new branch is quick & simple!
